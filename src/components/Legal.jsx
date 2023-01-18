@@ -16,9 +16,9 @@ export default class Legal extends Component {
                 <h3 className='mb-4' data-aos="fade-up"
                 data-aos-duration="800">Legal Advisory</h3>
                 <p className='mb-3' data-aos="fade-up"
-                data-aos-duration="1000">The legal compliance of your Web3 Gaming business is crucial for the success of your launch and ongoing gaming operations generation event (TGE).</p>
+                data-aos-duration="1000">The legal compliance of your Web3 Gaming business is crucial for the success of your launch and ongoing gaming operations. Blockchain gaming projects and their digital economies supporting different transactions are legally complex.</p>
                 <p className='mb-3' data-aos="fade-up"
-                data-aos-duration="1200">Blockchain gaming projects and their digital economies supporting different transactionlegally complex.</p>
+                data-aos-duration="1200">Because of this, we work collaboratively with Blockchain leaders from specialised law firms to address regulatory concerns and seize strategic opportunities. Our network of Legal Advisors focus primarily on Blockchain, Smart Contracts and Cryptocurrency matters. Whether you are just getting started in blockchain or have deep industry expertise, we are here to help.</p>
                 <Button variant="outline-primary" className='mt-4 md-lg-5'>
                   Learn More <FontAwesomeIcon icon={faAngleDoubleRight} />
                 </Button>

@@ -75,12 +75,10 @@ function Services() {
                 Web3 Gaming and Digital Entertainment Brands
               </h3>
               <p className="mb-3" data-aos="fade-up" data-aos-duration="1800">
-                Through white-label or bespoke custodial or non-custodial wallet
-                solutions, Web3 Gaming companies can access an extensive.
+              Through white-label or bespoke custodial or non-custodial wallet solutions, Web3 Gaming companies can access an extensive global blockchain-based payments network for real-time payment mechanism (RTP), cross-border payments processing and local acquiring with advanced business intelligence and real-time fraud prevention.
               </p>
               <p data-aos="fade-up" data-aos-duration="1900">
-                XSTRATEGY has partnered with best-in-class, blockchain native
-                technology stacks that make-up a secure.
+              XSTRATEGY has partnered with best-in-class, blockchain native technology stacks that make-up a secure, composable, blockchain agnostic financial ecosystem in order to provide uninterrupted gaming experiences with increased payments convenience and speed.
               </p>
               <Button
                 variant="primary"
