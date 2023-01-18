@@ -43,101 +43,59 @@ export default class Brands extends Component {
                 <div className="brands-imgs d-flex flex-wrap align-items-center">
                   <Marquee speed={50}>
                     <div
-                      className="brands-img"
-                      data-aos="fade-up"
-                      data-aos-duration="1000"
-                    >
+                      className="brands-img">
                       <img src={img1} alt="" />
                     </div>
                     <div
-                      className="brands-img"
-                      data-aos="fade-up"
-                      data-aos-duration="1300"
-                    >
+                      className="brands-img">
                       <img src={img2} alt="" />
                     </div>
                     <div
-                      className="brands-img"
-                      data-aos="fade-up"
-                      data-aos-duration="1600"
-                    >
+                      className="brands-img">
                       <img src={img3} alt="" />
                     </div>
                     <div
-                      className="brands-img"
-                      data-aos="fade-up"
-                      data-aos-duration="1900"
-                    >
+                      className="brands-img">
                       <img src={img4} alt="" />
                     </div>
                     <div
-                      className="brands-img"
-                      data-aos="fade-up"
-                      data-aos-duration="2200"
-                    >
+                      className="brands-img">
                       <img src={img5} alt="" />
                     </div>
                     <div
-                      className="brands-img"
-                      data-aos="fade-up"
-                      data-aos-duration="2200"
-                    >
+                      className="brands-img">
                       <img src={img6} alt="" />
                     </div>
                     <div
-                      className="brands-img"
-                      data-aos="fade-up"
-                      data-aos-duration="2200"
-                    >
+                      className="brands-img">
                       <img src={img7} alt="" />
                     </div>
                     <div
-                      className="brands-img"
-                      data-aos="fade-up"
-                      data-aos-duration="2200"
-                    >
+                      className="brands-img">
                       <img src={img8} alt="" />
                     </div>
                     <div
-                      className="brands-img"
-                      data-aos="fade-up"
-                      data-aos-duration="2200"
-                    >
+                      className="brands-img">
                       <img src={img9} alt="" />
                     </div>
                     <div
-                      className="brands-img"
-                      data-aos="fade-up"
-                      data-aos-duration="2200"
-                    >
+                      className="brands-img">
                       <img src={img10} alt="" />
                     </div>
                     <div
-                      className="brands-img"
-                      data-aos="fade-up"
-                      data-aos-duration="2200"
-                    >
+                      className="brands-img">
                       <img src={img11} alt="" />
                     </div>
                     <div
-                      className="brands-img"
-                      data-aos="fade-up"
-                      data-aos-duration="2200"
-                    >
+                      className="brands-img">
                       <img src={img12} alt="" />
                     </div>
                     <div
-                      className="brands-img"
-                      data-aos="fade-up"
-                      data-aos-duration="2200"
-                    >
+                      className="brands-img">
                       <img src={img13} alt="" />
                     </div>
                     <div
-                      className="brands-img"
-                      data-aos="fade-up"
-                      data-aos-duration="2200"
-                    >
+                      className="brands-img">
                       <img src={img14} alt="" />
                     </div>
                   </Marquee>
