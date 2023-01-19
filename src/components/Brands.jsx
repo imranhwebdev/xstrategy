@@ -15,7 +15,8 @@ import img11 from "../assets/img/brands/11.png";
 import img12 from "../assets/img/brands/4.png";
 import img13 from "../assets/img/brands/lonase-600x375.png";
 import img14 from "../assets/img/brands/pagcor.png";
-import badge from "../assets/img/bade-img.svg";
+import badge from "../assets/img/brand-shap.svg";
+import mouse from "../assets/img/mouse.svg";
 
 export default class Brands extends Component {
   render() {
@@ -38,64 +39,52 @@ export default class Brands extends Component {
               </Col>
               <Col xl="9" md="12">
                 <div className="brands-badge position-absolute">
-                  <img src={badge} alt="" />
+                  <img className="shap" src={badge} alt="" />
+                  <img className="mouse" src={mouse} alt="" />
                 </div>
+
                 <div className="brands-imgs d-flex flex-wrap align-items-center">
                   <Marquee speed={50}>
-                    <div
-                      className="brands-img">
+                    <div className="brands-img">
                       <img src={img1} alt="" />
                     </div>
-                    <div
-                      className="brands-img">
+                    <div className="brands-img">
                       <img src={img2} alt="" />
                     </div>
-                    <div
-                      className="brands-img">
+                    <div className="brands-img">
                       <img src={img3} alt="" />
                     </div>
-                    <div
-                      className="brands-img">
+                    <div className="brands-img">
                       <img src={img4} alt="" />
                     </div>
-                    <div
-                      className="brands-img">
+                    <div className="brands-img">
                       <img src={img5} alt="" />
                     </div>
-                    <div
-                      className="brands-img">
+                    <div className="brands-img">
                       <img src={img6} alt="" />
                     </div>
-                    <div
-                      className="brands-img">
+                    <div className="brands-img">
                       <img src={img7} alt="" />
                     </div>
-                    <div
-                      className="brands-img">
+                    <div className="brands-img">
                       <img src={img8} alt="" />
                     </div>
-                    <div
-                      className="brands-img">
+                    <div className="brands-img">
                       <img src={img9} alt="" />
                     </div>
-                    <div
-                      className="brands-img">
+                    <div className="brands-img">
                       <img src={img10} alt="" />
                     </div>
-                    <div
-                      className="brands-img">
+                    <div className="brands-img">
                       <img src={img11} alt="" />
                     </div>
-                    <div
-                      className="brands-img">
+                    <div className="brands-img">
                       <img src={img12} alt="" />
                     </div>
-                    <div
-                      className="brands-img">
+                    <div className="brands-img">
                       <img src={img13} alt="" />
                     </div>
-                    <div
-                      className="brands-img">
+                    <div className="brands-img">
                       <img src={img14} alt="" />
                     </div>
                   </Marquee>
